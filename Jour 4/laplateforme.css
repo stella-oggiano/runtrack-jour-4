@@ -1,0 +1,253 @@
+.tipo
+{
+    text-align: center;
+}
+
+*
+{
+    font-family:"Roboto";
+    color:#111470;
+}
+
+h1 
+{   
+    font-family:"Roboto Slab";
+    color:#1a1ead;
+}
+
+h2 
+{
+    font-family:"Roboto Slab";
+    color:  #111470;
+}
+
+nav ul
+{
+    list-style-type: none;
+    margin: 10px 100px 2em ;
+    padding: 5px;
+    float:left;
+}
+ 
+nav li
+{
+    float:right;
+    width: 20%;
+    text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+}
+
+.footer1 {
+    background-color:#e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+    text-align: center;
+}
+    
+.footer2 {
+    background-color:#e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+    text-align: center;
+    
+}
+
+.footer3 {
+    background-color:#e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+    text-align: center;
+}
+
+.droits {background-color:#e2e2e2;
+    border: 1px solid rgb(0, 0, 80);}
+
+
+.accueilpresentation{
+    text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+
+}
+.accueilwebcoding{
+    text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+}
+.accueilia{
+    text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+}
+.accueilcybersecurity{
+    text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+    
+}
+.accueilaccelerez{ text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+
+}
+.accueiltemoignage{
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+    
+
+}
+.videoaccueil2 {
+    float: right;
+}
+
+.cbcyber {
+    text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+}
+
+.cbprofessionneldevsecu {
+    text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+}
+
+.cbadminsecu {
+    text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+}
+.cbDPO { 
+    text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);
+}
+.cbinscri
+{ text-align: center;
+    background-color: #e2e2e2;
+    border: 1px solid rgb(0, 0, 80);}
+
+.ect 
+{
+    font-style: italic;
+}   
+
+.caa
+{
+    color:indianred;
+}   
+
+.rectangle{
+	width:1078.39px;
+	height:994.11px;
+	background:#ffffff;
+    position: absolute; top: 220px; left: 420px;
+    
+}
+.tformulaire{
+    font-size: 34px;
+    color: #275FA0;
+    position: absolute; top: 250px; left: 460px;
+}
+.formulaire1{
+    font-size: 16px;
+    position: absolute; top: 450px; left: 490px;
+    line-height: 5em;
+}
+.formulaire2{
+    font-size: 16px;
+    position: absolute; top: 450px; left: 850px;
+    line-height: 5em;
+     border: 1px solid black; padding: 5px;
+}
+.cadre{ 
+    border: 0.5px solid rgb(126, 123, 123); padding: 5px 250px 5px 5px; 
+}
+
+
+#titre1{
+    color:#336699 ;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+#titre2{
+    color:#336699 ;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      padding-top: 5em;
+}
+.texte1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10em;
+    padding-right: 10em;   
+    margin-bottom: 5em;
+}
+.texte2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30em;
+    padding-right: 10em; 
+    padding-top: 30px;
+    margin-bottom: 5em;
+}
+.p1{
+    color: #666666;
+    justify-content: left;
+}
+.logo1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 96px;
+	height: 96px;
+    padding-left: 42em;
+    margin-bottom: 2em;
+}
+.logo2{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: 156px;
+	height: 156px;
+    padding-left: 15em;
+    padding-top: 45px;
+    float: left;
+}
+.link { color: #336699;
+    text-decoration:none; 
+}
+.video1-2{
+    display: flex;
+    flex-direction: row;
+    padding-left: 17em;
+}
+.video3{
+    display: flex;
+    flex-direction: row;
+    padding-left: 17em;
+    padding-top: 7em;
+}
+#txtvideo1{
+    padding-left: 17em;
+    padding-bottom: 10em;
+    flex-direction: row;
+    position: absolute;
+}
+#txtvideo2{
+    padding-left: 50em;
+    padding-bottom: 90em;
+    flex-direction: row;
+    position: absolute
+}
+#txtvideo3{
+    padding-left: 17em;
+    padding-bottom: 10em;
+    flex-direction: row;
+    position: absolute;
+}
+.noms{
+    color:#336699 ;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#imagegroupe{
+    padding-left: 5em;
+}
